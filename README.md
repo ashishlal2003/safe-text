@@ -7,7 +7,7 @@ Safe Text is a web application that allows users to share and save text on the w
  - Edit and delete your own text
 
 ## Installation
-- Clone the repository to your local machine using git clone ```https://github.com/yourusername/safetext.git```
+- Clone the repository to your local machine using git clone ```https://github.com/yourusername/safe-text.git```
 - Install the necessary dependencies using ```npm install```
 - Create a MongoDB database and update the ```MONGO_URI``` and ```PORT``` environment variable in the ```.env``` file with your database connection string
 - Navigate to ```http://localhost:<PORT>``` in your web browser to use the application
